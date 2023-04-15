@@ -1,0 +1,16 @@
+.play-board {
+    /* border: 1px solid white; */
+    width: 80%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    background-image: url("../images/bg-pentagon.svg");
+    background-repeat: no-repeat;
+    background-size:80%;
+    background-position: center;
+
+}
+
+.play-board svg {
+    transform: scale(.6);
+}

@@ -1,0 +1,24 @@
+.single-play-token {
+    width: 100px;
+    height: 100px;
+}
+
+.single-play-token svg {
+    transform: scale(1.25);
+    position: absolute;
+}
+
+.single-play-token svg:nth-of-type(1) {
+    
+}
+
+
+
+
+/* Media Queries */
+
+@media only screen and (min-width: 1366px) {
+    /* .single-play-token svg {
+
+    } */
+}
